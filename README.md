@@ -3,7 +3,7 @@
 <img width="298" height="431" alt="8fe54b39-5c2f-4e6e-bb6e-5a181c1cfc62" src="https://github.com/user-attachments/assets/27572af1-cc46-468b-95d2-c4296ef37862" /> ![](https://komarev.com/ghpvc/?username=PUPPHAI&label=✸&color=fcfcfc)  <img width="298" height="431" alt="b239df01-7113-4dbd-8720-84200d92fb15" src="https://github.com/user-attachments/assets/07c8579f-4339-499a-8f05-9fc6b19dcdc4" />
 
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&duration=4000&pause=500&color=A7A7A79A&center=true&width=430&height=100&lines=I+will+run+to+the+sun;If+it+takes+me+all+night+long;Swim+across+the+seven+seas;If+that's+what+it+takes+to+make+you+notice+me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&duration=3000&pause=500&color=A7A7A79A&center=true&width=480&height=100&lines=We've+got+nowhere+to+go%2C;we've+got+nothing+to+prove;Instead+of+dancing+alone%2C;I+should+be+dancing+with+you;This+song+is+turning+me+on%2C+the+beat+is+doing+me+in;Or+maybe+it's+only+you;but+either+way;let's+begin." alt="Typing SVG" /></a>
 
   <p align="center">
 <img width="136" height="135" alt="ad0dc1691babec9b482b21ba0bae4e5d-Photoroom" src="https://github.com/user-attachments/assets/1d527ade-cb03-4d62-a952-ccf006ecff31" />
