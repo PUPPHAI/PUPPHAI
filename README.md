@@ -1,4 +1,6 @@
-<img width="298" height="431" alt="37295f63-54dc-4a3b-a4c5-81a11ad0d321" src="https://github.com/user-attachments/assets/58167f67-f1ee-4a35-8f80-f5280caca91e" /> <img width="298" height="431" alt="ce0df18e-9f91-4e8e-935d-ddf78f032c34" src="https://github.com/user-attachments/assets/a4a8b105-80bc-4079-b69d-43e290995b22" />
+  <p align="center">
+ 
+<img width="298" height="431" alt="8fe54b39-5c2f-4e6e-bb6e-5a181c1cfc62" src="https://github.com/user-attachments/assets/27572af1-cc46-468b-95d2-c4296ef37862" /> ![](https://komarev.com/ghpvc/?username=PUPPHAI&label=✸&color=fcfcfc)  <img width="298" height="431" alt="b239df01-7113-4dbd-8720-84200d92fb15" src="https://github.com/user-attachments/assets/07c8579f-4339-499a-8f05-9fc6b19dcdc4" />
 
 
 
