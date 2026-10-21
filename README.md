@@ -8,8 +8,6 @@
   <p align="center">
 <img width="136" height="135" alt="ad0dc1691babec9b482b21ba0bae4e5d-Photoroom" src="https://github.com/user-attachments/assets/1d527ade-cb03-4d62-a952-ccf006ecff31" />
 
-<div style="float: right">
-<img align="right" width="290" height="483" alt="Untitled258_20261021232206" src="https://github.com/user-attachments/assets/db2daa61-526d-4aeb-bc6d-f926938d5e67" />
 
   <p align="center">
 <img width="800" height="322" alt="7dc534c2-b2b6-481e-b55a-540bba5217e6" src="https://github.com/user-attachments/assets/ad4a7254-c9d5-4351-ae6f-b783970d6550" />
